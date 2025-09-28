@@ -10,7 +10,7 @@
 - Git, GitHub
 - Visual Studio Code
 
-📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:ismailmahomed080@gmail.com)
 
 ### 🛠 Skills
 
