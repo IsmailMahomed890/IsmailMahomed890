@@ -1,6 +1,6 @@
 # Hi, I'm Ismail Mahomed 👋
 
-💻 First-year Software Engineering student at University of Leicester  
+💻 Second-year Software Engineering student at the University of Leicester  
 📚 Currently learning Python, HTML/CSS, and JavaScript  
 🚀 Working on academic and personal coding projects  
 🎯 Goal: Become a software engineer at Google/Microsoft  
