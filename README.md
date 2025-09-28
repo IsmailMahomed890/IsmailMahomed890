@@ -1,8 +1,21 @@
-# Hi, I'm Ismail!
+# Hi, I'm Ismail Mahomed 👋
 
-Welcome to my GitHub profile. Here you'll find my projects and contributions.
+💻 First-year Software Engineering student at University of Leicester  
+📚 Currently learning Python, HTML/CSS, and JavaScript  
+🚀 Working on academic and personal coding projects  
+🎯 Goal: Become a software engineer at Google/Microsoft  
 
-- 🌱 I’m learning GitHub!
-- 💻 Check out my repositories below!
+### Skills & Tools:
+- Python, HTML, CSS, JavaScript
+- Git, GitHub
+- Visual Studio Code
 
-Feel free to connect!
+📫 Reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:you@example.com)
+
+### 🛠 Skills
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css&perline=5" />
+
+</p>
+
