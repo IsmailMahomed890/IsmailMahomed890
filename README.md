@@ -6,26 +6,28 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineering** student at the University of Leicester, focused on building impactful and innovative solutions. I thrive on learning new technologies and turning ideas into real-world projects. My goal is to join a top-tier tech company like **Google** or **Microsoft** and contribute to cutting-edge development.
+I'm a passionate **Software Engineering** student at the University of Leicester, focused on building impactful and innovative solutions. I thrive on learning new technologies and turning ideas into reality.
 
 ---
 
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,bash,react,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,bash,vscode&theme=light" />
 </p>
 
 - **Languages:** Python, Java, HTML, CSS, JavaScript
-- **Tools:** Git, GitHub, Bash, VS Code
-- **Frameworks:** React (learning)
+- **Tools:** Git, GitHub, Bash, VS Code, Gradle, Maven
+- **Frameworks:** Flask, Spring Boot
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced Python
-- JavaScript frameworks (React, Node.js)
+- Flask (backend development)
+- Spring Boot (backend development)
+- Gradle & Maven (Java project management)
 - Cloud fundamentals (AWS, Azure)
 - Data structures & algorithms
 
