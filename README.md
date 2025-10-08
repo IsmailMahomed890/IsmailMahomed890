@@ -15,7 +15,7 @@
 ### 🛠 Skills
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,bash&perline=5" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,bash&theme=light" />
 
 </p>
 
