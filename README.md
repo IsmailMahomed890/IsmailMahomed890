@@ -13,7 +13,7 @@ I'm a passionate **Software Engineering** student at the University of Leicester
 ## 🧑‍💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,javascript,git,github,bash,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=python,flask,java,springboot,html,css,javascript,git,github,bash,vscode&theme=light" />
 </p>
 
 - **Languages:** Python, Java, HTML, CSS, JavaScript
